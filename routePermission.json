@@ -1,0 +1,10 @@
+{
+  "/get": {
+    "type": "role",
+    "value": "dev"
+  },
+  "/post": {
+    "type": "res",
+    "value": "order:*"
+  }
+}
